@@ -56,11 +56,10 @@ class binomModel:
     def americanMultiPeriodBinomialModel(self, steps):
 
         timeStep, u, d, p = self.computeUDP(steps)
-        optionValue = self.computeLastStepPayoff(steps)
 
         prevOptionPrice = self.computeLastStepPayoff(steps)
 
-        for i in range(steps-2, 0, -1):
+        for i in range(steps-2, -1, -1):
 
             new = []
 
@@ -69,3 +68,4 @@ class binomModel:
 
             prevOptionPrice = new
 
+        return prevOptionPrice[0]

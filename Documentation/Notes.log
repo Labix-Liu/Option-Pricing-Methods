@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.7)  8 MAY 2025 02:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.7)  8 MAY 2025 02:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1228,7 +1228,7 @@ Package rerunfilecheck Info: File `Notes.out' has not changed.
 Here is how much of TeX's memory you used:
  34889 strings out of 473577
  721670 string characters out of 5716318
- 1146143 words of memory out of 5000000
+ 1146117 words of memory out of 5000000
  57518 multiletter control sequences out of 15000+600000
  599637 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1249,7 +1249,7 @@ ymbols/msbm10.pfb><C:/Users/liula/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/tex-gyre/qplb.pfb><C:/Users/liula/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/tex-gyre/qplr.pfb><C:/Users/liula/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/tex-gyre/qplri.pfb>
-Output written on Notes.pdf (6 pages, 286664 bytes).
+Output written on Notes.pdf (6 pages, 286632 bytes).
 PDF statistics:
  161 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)

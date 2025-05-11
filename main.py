@@ -41,6 +41,7 @@ b = binomialClass.binomModel(currentOption, currentMarket)
 
 print(b.onePeriodBinomialModel())
 print(b.europeanMultiPeriodBinomialModel(steps))
+print(b.americanMultiPeriodBinomialModel(steps))
 
 
 paths = []
